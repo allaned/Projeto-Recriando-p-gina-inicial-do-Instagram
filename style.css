@@ -120,10 +120,10 @@ body {
 }
 
 .download:nth-child(1) {
-    background-image: url(apple.png);
+    background-image: url(img/apple.png);
 }
 .download:nth-child(2) {
-    background-image: url(google.png);
+    background-image: url(img/google.png);
 }
 
 @media (max-width: 1024px) {
